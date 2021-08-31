@@ -15,13 +15,13 @@
 
 - 📝 I regularly write articles on [https://blog.fajarsiddiq.com](https://blog.fajarsiddiq.com)
 
-- 💬 Ask me about **Product Feedback, Communities & Microstartups**
+- 💬 Ask me about **content creation, communities, microstartups, feedback & reviews**
 
-- 📫 How to reach me **info@fajarsiddiq.com**
+- 📫 How to reach me **email me at info@fajarsiddiq.com**
 
 - 📄 Know about my experiences [https://fajarsiddiq.com/resume](https://fajarsiddiq.com/resume)
 
-- ⚡ Fun fact **I'm a professional yo-yo players for 20+ years**
+- ⚡ Fun fact **I'm a Digital Nomad, Producer & Professional yo-yo players for 20+ years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,5 +45,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajarsiddiqfs&show_icons=true&locale=en&layout=compact" alt="fajarsiddiqfs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fajarsiddiqfs&show_icons=true&locale=en" alt="fajarsiddiqfs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fajarsiddiqfs&" alt="fajarsiddiqfs" /></p>
