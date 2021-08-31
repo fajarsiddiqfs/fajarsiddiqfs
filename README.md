@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/fajarsiddiqfs" target="blank"><img src="https://img.shields.io/twitter/follow/fajarsiddiqfs?logo=twitter&style=for-the-badge" alt="fajarsiddiqfs" /></a> </p>
 
-- 🔭 I’m currently working on [Euphorya](https://euphoryadesign.com)
+- 🔭 I’m currently working on [Euphorya], Creative Design Agency (https://euphoryadesign.com)
 
-- 🌱 I’m currently learning **JAMstack, Saas & Productized Services.**
+- 🌱 I’m currently learning **JAMstack, SaaS & Productized Services.**
 
 - 👯 I’m looking to collaborate on [Microstartups](https://microstartups.xyz)
 
