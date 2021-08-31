@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://blog.fajarsiddiq.com](https://blog.fajarsiddiq.com)
 
-- 💬 Ask me about **Product Feedback, Communities**
+- 💬 Ask me about **Product Feedback, Communities & Microstartups**
 
 - 📫 How to reach me **info@fajarsiddiq.com**
 
