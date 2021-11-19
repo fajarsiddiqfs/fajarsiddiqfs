@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at Remote Design Studio, [Euphorya](https://euphoryadesign.com)
 
-- 🌱 I’m currently learning **JAMstack, SaaS & Productized Services.**
+- 🌱 I’m currently learning **JAMstack, SaaS & Productized Services**
 
 - 💜 I'm building online community [Ramadan Makers](https://ramadanmakers.com), [Jamstack Makers](https://jamstackmakers.com), [Microstartups](https://microstartups.xyz), [Lion City Makers](https://lioncitymakers.com)
 
