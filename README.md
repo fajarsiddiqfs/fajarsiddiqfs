@@ -11,7 +11,7 @@
 
 - 🤝 Currently building in public with my [Side-Projects](https://fajarsiddiq.com/projects)
 
-- 👨‍💻 All of my projects are available at [fajarsiddiq.com](https://fajarsiddiq.com)
+- 👨‍💻 All of my projects are available at my personal website [www.fajarsiddiq.com](https://fajarsiddiq.com)
 
 - 📝 I write blog articles on my [Newsletter](https://blog.fajarsiddiq.com) about my Entrepreneurship, Life, Technology & Design.
 
