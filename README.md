@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at my personal website [fajarsiddiq.com](https://fajarsiddiq.com)
 
-- 📝 I write blog articles on my [Newsletter](https://blog.fajarsiddiq.com) about my Entrepreneurship, Life, Technology & Design.
+- 📝 I write blog articles on my [Newsletter](https://blog.fajarsiddiq.com) about my Entrepreneurship, Life, Technology & Design
 
 - 💬 Ask me about **content creation, communities, microstartups, feedback & reviews** on [Coffee Chat](https://fajarsiddiq.com/coffeechat)
 
