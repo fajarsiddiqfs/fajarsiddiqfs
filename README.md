@@ -15,9 +15,9 @@
 
 - 📝 I write blog articles on my [Newsletter](https://blog.fajarsiddiq.com)
 
-- 💬 Ask me about **content creation, communities, microstartups, feedback & reviews**
+- 💬 Ask me about **content creation, communities, microstartups, feedback & reviews** on [Coffee Chat](https://fajarsiddiq.com/coffeechat)
 
-- 📫 Chat with me on [Telegram](https://fajarsiddiq.com/chat)
+- 📫 Chat with me on [Telegram](https://fajarsiddiq.com/chat) if you want to ask me anything
 
 - 📄 Know about my experiences, you can view my [Resume](https://fajarsiddiq.com/resume)
 
