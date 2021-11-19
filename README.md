@@ -7,17 +7,17 @@
 
 - 🌱 I’m currently learning **JAMstack, SaaS & Productized Services.**
 
-- 👯 I’m looking to collaborate on [Microstartups](https://microstartups.xyz)
+- 💜 I'm building online community [Ramadan Makers](https://ramadanmakers.com), [Jamstack Makers](https://jamstackmakers.com), [Microstartups](https://microstartups.xyz), [Lion City Makers](https://lioncitymakers.com)
 
-- 🤝 I’m looking for help with [Side-Projects](https://fajarsiddiq.com/projects)
+- 🤝 Currently building in public with my [Side-Projects](https://fajarsiddiq.com/projects)
 
 - 👨‍💻 All of my projects are available at [https://fajarsiddiq.com](https://fajarsiddiq.com)
 
-- 📝 I regularly write articles on [https://blog.fajarsiddiq.com](https://blog.fajarsiddiq.com)
+- 📝 I write blog articles on [https://blog.fajarsiddiq.com](https://blog.fajarsiddiq.com)
 
 - 💬 Ask me about **content creation, communities, microstartups, feedback & reviews**
 
-- 📫 How to reach me **email me at info@fajarsiddiq.com**
+- 📫 How to reach me [https://fajarsiddiq.com/chat](https://fajarsiddiq.com/chat)
 
 - 📄 Know about my experiences [https://fajarsiddiq.com/resume](https://fajarsiddiq.com/resume)
 
