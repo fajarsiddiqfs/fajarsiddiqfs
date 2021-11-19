@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/fajarsiddiqfs" target="blank"><img src="https://img.shields.io/twitter/follow/fajarsiddiqfs?logo=twitter&style=for-the-badge" alt="fajarsiddiqfs" /></a> </p>
 
-- 🔭 I’m currently working on **Euphorya**, Remote Design Studio (https://euphoryadesign.com)
+- 🔭 I’m currently working on **Euphorya**, Remote Design Studio, [Euphorya](https://euphoryadesign.com)
 
 - 🌱 I’m currently learning **JAMstack, SaaS & Productized Services.**
 
@@ -11,15 +11,15 @@
 
 - 🤝 Currently building in public with my [Side-Projects](https://fajarsiddiq.com/projects)
 
-- 👨‍💻 All of my projects are available at [https://fajarsiddiq.com](https://fajarsiddiq.com)
+- 👨‍💻 All of my projects are available at [fajarsiddiq.com](https://fajarsiddiq.com)
 
-- 📝 I write blog articles on [https://blog.fajarsiddiq.com](https://blog.fajarsiddiq.com)
+- 📝 I write blog articles on [fajarsiddiq.com/blog](https://blog.fajarsiddiq.com)
 
 - 💬 Ask me about **content creation, communities, microstartups, feedback & reviews**
 
-- 📫 How to reach me [https://fajarsiddiq.com/chat](https://fajarsiddiq.com/chat)
+- 📫 How to reach me [fajarsiddiq.com/chat](https://fajarsiddiq.com/chat)
 
-- 📄 Know about my experiences [https://fajarsiddiq.com/resume](https://fajarsiddiq.com/resume)
+- 📄 Know about my experiences [fajarsiddiq.com/resume](https://fajarsiddiq.com/resume)
 
 - ⚡ Fun fact **I'm a Digital Nomad, Producer & Professional yo-yo players for 20+ years**
 
