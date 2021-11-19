@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [fajarsiddiq.com](https://fajarsiddiq.com)
 
-- 📝 I write blog articles on [fajarsiddiq.com/blog](https://blog.fajarsiddiq.com)
+- 📝 I write blog articles on my [Newsletter](https://blog.fajarsiddiq.com)
 
 - 💬 Ask me about **content creation, communities, microstartups, feedback & reviews**
 
-- 📫 How to reach me [fajarsiddiq.com/chat](https://fajarsiddiq.com/chat)
+- 📫 Chat with me on [Telegram](https://fajarsiddiq.com/chat)
 
-- 📄 Know about my experiences [fajarsiddiq.com/resume](https://fajarsiddiq.com/resume)
+- 📄 Know about my experiences, you can view my [Resume](https://fajarsiddiq.com/resume)
 
 - ⚡ Fun fact **I'm a Digital Nomad, Producer & Professional yo-yo players for 20+ years**
 
