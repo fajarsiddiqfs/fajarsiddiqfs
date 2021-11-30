@@ -27,7 +27,7 @@
 
 - ⭐ For a quick link of my resources & latest update go to my [Bio Link](https://fajarsiddiq.com/links)
 
-- ⚡ Fun fact **I'm a Digital Nomad, Producer & Professional yo-yo players for 20+ years**
+- ⚡ Fun fact **I'm a Digital Nomad, Producer & Professional yo-yo player for 20+ years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
