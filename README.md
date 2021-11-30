@@ -2,6 +2,7 @@
 <h3 align="center">👨🏻‍💻 Serial Entrepreneur + Indie-Maker + Influencer + Producer + Professional Yo-Yo Player + Digital Nomad + Designer & Developer ⚡🚀🛠️</h3>
 
 <p align="left"> <a href="https://twitter.com/fajarsiddiqfs" target="blank"><img src="https://img.shields.io/twitter/follow/fajarsiddiqfs?logo=twitter&style=for-the-badge" alt="fajarsiddiqfs" /></a> </p>
+ 
 - 👨‍💻 To know more about my full biography, [About Me](https://fajarsiddiq.com/about)
 
 - 🔭 I’m currently working at Remote Design Studio, [Euphorya](https://euphoryadesign.com)
