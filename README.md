@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences, you can view my [Resume](https://fajarsiddiq.com/resume)
 
-- 🤑 You can send me a tip via [Stripe](https://fajarsiddiq.com/tip)
+- 🤑 You can send me a tip via [Buy Me A Coffee](https://fajarsiddiq.com/buymeacoffee)
 
 - ⭐ For a quick link of my resources & latest update go to my [Bio Link](https://fajarsiddiq.com/links)
 
