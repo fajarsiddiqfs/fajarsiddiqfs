@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at Remote Design Studio, [Euphorya](https://euphoryadesign.com)
 
-- 🌱 I’m currently learning **JAMstack, SaaS & Productized Services**
+- 🌱 I’m currently learning about **JAMstack, SaaS & Productized Services**
 
 - 💜 I'm building online community [Ramadan Makers](https://ramadanmakers.com), [Jamstack Makers](https://jamstackmakers.com), [Microstartups](https://microstartups.xyz), [Lion City Makers](https://lioncitymakers.com)
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **content creation, communities, microstartups, feedback & reviews** on [Coffee Chat](https://fajarsiddiq.com/coffeechat)
 
-- 📫 Chat with me on [Telegram](https://fajarsiddiq.com/chat) if you want to ask me anything
+- 📫 Subscribe my latest update on [Telegram](https://fajarsiddiq.com/community) Channel
 
 - 📄 Know about my experiences, you can view my [Resume](https://fajarsiddiq.com/resume)
 
