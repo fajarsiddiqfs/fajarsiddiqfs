@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **content creation, communities, microstartups, feedback & reviews** on [Coffee Chat](https://fajarsiddiq.com/coffeechat)
 
-- 📫 Subscribe my latest updates on [Telegram](https://t.me/fajarsiddiqfs)) Channel
+- 📫 Subscribe my latest updates on [Telegram](https://t.me/fajarsiddiqfs) Channel
 
 - 🤑 You can send me a tip via [Buy Me A Coffee](https://fajarsiddiq.com/buymeacoffee)
 
