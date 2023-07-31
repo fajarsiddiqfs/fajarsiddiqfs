@@ -3,29 +3,11 @@
 
 <p align="center"> <a href="https://twitter.com/fajarsiddiqfs" target="blank"><img src="https://img.shields.io/twitter/follow/fajarsiddiqfs?logo=twitter&style=for-the-badge" alt="fajarsiddiqfs" /></a> </p>
  
-- 👨‍💻 To know more about my full biography, [About Me](https://fajarsiddiq.com/about)
-
-- 🔭 I’m currently working at Remote Design Studio, [Euphorya](https://euphoryadesign.com)
-
-- 🌱 I’m currently learning about **JAMstack, SaaS & Productized Services**
-
-- 💜 I'm building online community [Ramadan Makers](https://ramadanmakers.com), [Jamstack Makers](https://jamstackmakers.com), [Microstartups](https://microstartups.xyz), [Lion City Makers](https://lioncitymakers.com)
-
-- 🤝 Currently building in public with my [Side-Projects](https://fajarsiddiq.com/projects)
+- 🔭 I’m currently working on my Micro-Startup Agency, [Euphorya](https://euphorya.co)
 
 - 👨‍💻 All of my projects are available at my personal website [fajarsiddiq.com](https://fajarsiddiq.com)
 
-- 📝 I write blog articles on my [Newsletter](https://blog.fajarsiddiq.com) about my Entrepreneurship, Life, Technology & Design
-
-- 💬 Ask me about **content creation, communities, microstartups, feedback & reviews** on [Coffee Chat](https://fajarsiddiq.com/coffeechat)
-
 - 📫 Subscribe my latest updates on [Telegram](https://t.me/fajarsiddiqfs) Channel
-
-- 🤑 You can send me a tip via [Buy Me A Coffee](https://fajarsiddiq.com/buymeacoffee)
-
-- ⭐ For a quick link of my resources & latest update go to my [Bio Link](https://fajarsiddiq.com/links)
-
-- ⚡ Fun fact **I'm a Digital Nomad, Producer & Professional yo-yo player for 20+ years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
